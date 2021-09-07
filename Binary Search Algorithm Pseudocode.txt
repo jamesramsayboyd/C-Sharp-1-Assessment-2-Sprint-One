@@ -1,0 +1,24 @@
+Binary Search Algorithm:
+
+1.	Sort data in ascending order. Find the middle number of the array.
+2.	If the search target is less than the middle number, go to Step 3. If the search target is greater than the middle number, go to Step 4. If the middle number is the search target, end search.
+3.	Perform new search using the middle number from the previous Step as the new highest bound of the list. Find the middle number again. Repeat Step 2
+4.	Perform new search using the middle number from the previous Step as the new lowest bound of the list. Find the new middle number. Repeat Step 2.
+
+
+Binary Search Pseudo Code:
+
+int lowBound = lowest entry in list
+int highBound = highest entry in list
+int target = user’s search target 
+int midPoint
+
+while(lowBound is less than highBound)
+    midPoint = middle entry in list
+    if midPoint = target
+        print(“target found”)
+        break
+    else if target is less than midPoint
+        highBound = midPoint - 1
+    else if target is greater than midPoint
+        lowBound = midPoint + 1
