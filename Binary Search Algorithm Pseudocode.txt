@@ -10,11 +10,11 @@ Binary Search Pseudo Code:
 
 int lowBound = lowest entry in list
 int highBound = highest entry in list
-int target = user’s search target 
-int midPoint
+int midPoint = middle entry in list
+int target = user’s search target
 
 while(lowBound is less than highBound)
-    midPoint = middle entry in list
+    midPoint = (lowBound + highBound) / 2
     if midPoint = target
         print(“target found”)
         break
