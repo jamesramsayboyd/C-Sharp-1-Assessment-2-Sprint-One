@@ -8,10 +8,10 @@ Binary Search Algorithm:
 
 Binary Search Pseudo Code:
 
-int lowBound = lowest entry in list
-int highBound = highest entry in list
-int midPoint = middle entry in list
-int target = user’s search target
+lowBound = lowest entry in list
+highBound = highest entry in list
+midPoint = middle entry in list
+target = user’s search target
 
 while(lowBound is less than highBound)
     midPoint = (lowBound + highBound) / 2
