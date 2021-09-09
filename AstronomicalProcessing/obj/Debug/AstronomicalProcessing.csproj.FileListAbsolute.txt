@@ -1,0 +1,20 @@
+C:\Users\30041547\Documents\VisualStudioProjects\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+C:\Users\30041547\Documents\VisualStudioProjects\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+C:\Users\30041547\Documents\VisualStudioProjects\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+C:\Users\30041547\Documents\VisualStudioProjects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csprojAssemblyReference.cache
+C:\Users\30041547\Documents\VisualStudioProjects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+C:\Users\30041547\Documents\VisualStudioProjects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+C:\Users\30041547\Documents\VisualStudioProjects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+C:\Users\30041547\Documents\VisualStudioProjects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+C:\Users\30041547\Documents\VisualStudioProjects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+C:\Users\30041547\Documents\VisualStudioProjects\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
+F:\TAFE\ICT40120 Programming\Day 1\Cluster C Sharp 1\Assessment AT02\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe.config
+F:\TAFE\ICT40120 Programming\Day 1\Cluster C Sharp 1\Assessment AT02\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.exe
+F:\TAFE\ICT40120 Programming\Day 1\Cluster C Sharp 1\Assessment AT02\AstronomicalProcessing\bin\Debug\AstronomicalProcessing.pdb
+F:\TAFE\ICT40120 Programming\Day 1\Cluster C Sharp 1\Assessment AT02\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.AssemblyReference.cache
+F:\TAFE\ICT40120 Programming\Day 1\Cluster C Sharp 1\Assessment AT02\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.AstronomicalProcessingForm.resources
+F:\TAFE\ICT40120 Programming\Day 1\Cluster C Sharp 1\Assessment AT02\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.Properties.Resources.resources
+F:\TAFE\ICT40120 Programming\Day 1\Cluster C Sharp 1\Assessment AT02\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.GenerateResource.cache
+F:\TAFE\ICT40120 Programming\Day 1\Cluster C Sharp 1\Assessment AT02\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.csproj.CoreCompileInputs.cache
+F:\TAFE\ICT40120 Programming\Day 1\Cluster C Sharp 1\Assessment AT02\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.exe
+F:\TAFE\ICT40120 Programming\Day 1\Cluster C Sharp 1\Assessment AT02\AstronomicalProcessing\obj\Debug\AstronomicalProcessing.pdb
